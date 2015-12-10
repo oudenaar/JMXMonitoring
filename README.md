@@ -37,6 +37,7 @@ URL: service:jmx:rmi://<TARGET_MACHINE>:<JMX_RMI_SERVER_PORT>/jndi/rmi://<TARGET
 2015-12-11 00:33:53 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.04
 
 
+
 ##Note: 
 
 We expect that Java and Maven are installed
