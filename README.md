@@ -28,13 +28,21 @@ URL: service:jmx:rmi://<TARGET_MACHINE>:<JMX_RMI_SERVER_PORT>/jndi/rmi://<TARGET
 ##Output to log-file:
 
 2015-12-11 00:33:47 INFO  JMXMonitoring:54 - Using the remote JMX URL :service:jmx:rmi:///jndi/rmi://127.0.0.1:9020/jmxrmi
+
 2015-12-11 00:33:47 INFO  JMXMonitoring:55 - interval :1000
+
 2015-12-11 00:33:48 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.11
+
 2015-12-11 00:33:49 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.03
+
 2015-12-11 00:33:50 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.09
+
 2015-12-11 00:33:51 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.10
+
 2015-12-11 00:33:52 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.04
+
 2015-12-11 00:33:53 INFO  JMXMonitoring:98 - Heap(MB): 118 of committed(MB): 1029 ,threads  11 , CPU 0.04
+
 
 
 
