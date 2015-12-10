@@ -1,5 +1,7 @@
 # JMXMonitoring
 
+(Thanks for the sample: https://gist.github.com/pradeepfn/4143374)
+
 This application is a simple JMX monitoring logger.
 
 ##Usage:
